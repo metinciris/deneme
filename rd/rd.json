@@ -1,1 +1,23 @@
- 
+[
+  {
+    "id": "1",
+    "name": "Radyo Madyo",
+    "streamUrl": "https://yayin.radyomadyo.com:8080/stream",
+    "metadataUrl": "https://yayin.radyomadyo.com:8080/status-json.xsl",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/63/93/ab6393a1-d575-9818-8901-20ec5a47438d/197189366659.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Kalp FM",
+    "streamUrl": "https://yayin.kalpfm.com:8080/stream",
+    "metadataUrl": "https://yayin.kalpfm.com:8080/status-json.xsl",
+    "logoUrl": "https://example.com/kalp-logo.png"
+  },
+  {
+    "id": "3",
+    "name": "Alternatif İstasyon",
+    "streamUrl": "https://yayin.istasyon.com/live",
+    "metadataUrl": "",
+    "logoUrl": "https://example.com/radyo-logo.png"
+  }
+]
